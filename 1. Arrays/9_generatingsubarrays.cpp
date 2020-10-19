@@ -3,36 +3,36 @@
 using namespace std;
 
 int main() {
+    //enter the number of elements
     int n;
     cin>>n;
 
+    //enter the array
     int a[n];
     for (int i = 0; i < n; i++)
     {
         cin>>a[i];
     }
-
-    int cSum = 0;
-    int mSum = 0;
-
+    
+    //brute force
+    //i = start of the subarray
     for (int i = 0; i < n; i++)
-    {
+    {   
+        //j = end of the subarray
         for (int j = i; j < n; j++)
         {
-            cSum=0;
+            //k =  iterator from i to j
             for (int k = i; k <= j; k++)
             {
-                cSum = cSum + a[k];
+                cout<<a[k]<<", ";
             }
-
-            if (cSum > mSum)
-            {
-                mSum = cSum;
-            }
+            //line break after each subarray
+            cout<<endl;
         }
         
     }
-    cout<<mSum;
+    
+    
     
     return 0;
 }

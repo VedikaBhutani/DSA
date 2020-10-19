@@ -1,29 +1,25 @@
-#include <iostream>
+#include<iostream>
 
 using namespace std;
 
-int main() {
+int main () {
+    //Enter the number of elements of the array
     int n;
     cin>>n;
 
     int a[n];
 
+    //Input the elements
     for (int i = 0; i < n; i++)
     {
         cin>>a[i];
     }
-
-    int k;
-    cin>>k;
-
+    
+    //output the elements
     for (int i = 0; i < n; i++)
     {
-        if (a[i] == k)
-        {
-            cout<< k <<" is present at " << i+1 << "th position";
-        }
-        
+        cout<<a[i]<<endl;
     }
-    
+
     return 0;
 }
