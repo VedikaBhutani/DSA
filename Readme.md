@@ -24,7 +24,7 @@ A repository made solely for the learning aid of anyone interested in preparing 
 
 * New problems will be uploaded regularly.
 
-* Any kind of suggestions and queries may be directed to [Abhinav Tyagi](anna.tyagi4@gmail.com "Email") with DSA as the subject.
+* Any kind of suggestions and queries may be directed to Abhinav Tyagi at <anna.tyagi4@gmail.com> with DSA as the subject.
 
 * Star the repo if you find it useful
 
