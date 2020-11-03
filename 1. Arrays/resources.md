@@ -60,3 +60,25 @@
 * [GFG](https://www.geeksforgeeks.org/maximum-contiguous-circular-sum/)
 * [Youtube](https://youtu.be/Q1TYVUEr-wY)
 
+### 17 Maximum length bitonc sub array
+* [GFG](https://www.geeksforgeeks.org/maximum-length-bitonic-subarray/)
+* [Youtube](https://youtu.be/k4vMVTp6AuI)
+
+### 18 Form biggest number
+* [GFG](https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/)
+* [Youtube](https://youtu.be/qEIGhVtZ-sg)
+
+### 19 Chewbacca Number
+* [Link](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/chewbacca-and-number)
+* [Youtube](https://www.youtube.com/watch?v=wU51frCexTY)
+
+### 20 Big Factorial
+* [GFG](https://www.geeksforgeeks.org/factorial-large-number/)
+* [Youtube](https://www.youtube.com/watch?v=LCDSigIDqnw)
+
+### 21 Sum of Arrays
+* [GFG](https://www.geeksforgeeks.org/add-two-numbers-represented-by-two-arrays/)
+
+### 22 Median of two equal sorted Arrays
+* [GFG](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)
+* [Youtube](https://youtu.be/OXIHGa949IE)
